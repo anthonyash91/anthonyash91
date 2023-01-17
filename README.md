@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Junior Frontend Developer
+
+### Skills:
+- HTML / CSS / JavaScript
+- NodeJS
+- React
+- Express
+- MongoDB
