@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Junior Full-Stack Developer With A Passion For Frontend
 
-I am a recent graduate of General Assembly's SEI bootcamp, where I spent over 500 hours learning the fundamentals of full-stack development. My passion is frontend development as I love to bring a design to life with my coding.
+I am a recent graduate of General Assembly's SEI bootcamp, where I spent over 500 hours learning the fundamentals of full-stack development. My passion is frontend development as I love to bring designs to life with thousands of lines of code.
 
 ### Skills:
 - HTML / CSS / JavaScript
